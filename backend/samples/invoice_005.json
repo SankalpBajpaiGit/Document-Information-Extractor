@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_005",
+  "vendor_name": "Apex Hypermarket & Mart",
+  "vendor_address": "Plot 88 Cyber City, Gurugram, HR",
+  "vendor_phone": "+91-9911223344",
+  "vendor_email": "info@apexhyper.in",
+  "invoice_number": "INV-2024005",
+  "date": "07/12/2026",
+  "customer_name": "Sankalp Bajpai",
+  "customer_address": "Sector 14, Indiranagar, Lucknow, UP",
+  "subtotal": 21500,
+  "tax": 3870.0,
+  "total": 25370.0,
+  "payment_method": "MasterCard ****9902",
+  "items": [
+    {
+      "description": "Full HD 27-inch Monitor",
+      "quantity": 1,
+      "price": 18500,
+      "amount": 18500
+    },
+    {
+      "description": "Optical Gaming Mouse",
+      "quantity": 2,
+      "price": 1500,
+      "amount": 3000
+    }
+  ]
+}

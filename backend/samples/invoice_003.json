@@ -1,0 +1,41 @@
+{
+  "doc_id": "doc_003",
+  "vendor_name": "Apex Supermarket",
+  "vendor_address": "12 Grand Trunk Road, Bengaluru, KA",
+  "vendor_phone": "+91-8080808080",
+  "vendor_email": "receipts@apexsuper.com",
+  "invoice_number": "INV-2024003",
+  "date": "16/04/2026",
+  "customer_name": "Prajot Shrivastava",
+  "customer_address": "Block B-12, Manipal Campus, Udupi, KA",
+  "subtotal": 47700,
+  "tax": 8586.0,
+  "total": 56286.0,
+  "payment_method": "Net Banking (HDFC)",
+  "items": [
+    {
+      "description": "Optical Gaming Mouse",
+      "quantity": 3,
+      "price": 1500,
+      "amount": 4500
+    },
+    {
+      "description": "High Speed HDMI Cable 2m",
+      "quantity": 3,
+      "price": 600,
+      "amount": 1800
+    },
+    {
+      "description": "Noise Cancelling Headphones",
+      "quantity": 3,
+      "price": 12000,
+      "amount": 36000
+    },
+    {
+      "description": "USB-C Multiport Adapter",
+      "quantity": 3,
+      "price": 1800,
+      "amount": 5400
+    }
+  ]
+}

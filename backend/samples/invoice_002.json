@@ -1,0 +1,29 @@
+{
+  "doc_id": "doc_002",
+  "vendor_name": "Global Retail Corp",
+  "vendor_address": "45 Market Street, Suite 300, New York, NY",
+  "vendor_phone": "+1-800-555-0199",
+  "vendor_email": "support@globalretail.com",
+  "invoice_number": "INV-2024002",
+  "date": "25/06/2026",
+  "customer_name": "Sarah Jenkins",
+  "customer_address": "742 Evergreen Terrace, Springfield, OR",
+  "subtotal": 20300,
+  "tax": 3654.0,
+  "total": 23954.0,
+  "payment_method": "MasterCard ****9902",
+  "items": [
+    {
+      "description": "Full HD 27-inch Monitor",
+      "quantity": 1,
+      "price": 18500,
+      "amount": 18500
+    },
+    {
+      "description": "High Speed HDMI Cable 2m",
+      "quantity": 3,
+      "price": 600,
+      "amount": 1800
+    }
+  ]
+}

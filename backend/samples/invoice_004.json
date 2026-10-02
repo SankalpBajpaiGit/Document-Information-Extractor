@@ -1,0 +1,41 @@
+{
+  "doc_id": "doc_004",
+  "vendor_name": "TechCraft Solutions",
+  "vendor_address": "78 Innovation Way, San Jose, CA",
+  "vendor_phone": "+1-408-555-9012",
+  "vendor_email": "invoices@techcraft.io",
+  "invoice_number": "INV-2024004",
+  "date": "19/01/2026",
+  "customer_name": "Kabir Sidana",
+  "customer_address": "Villa 19, Palm Meadows, Chandigarh",
+  "subtotal": 79000,
+  "tax": 14220.0,
+  "total": 93220.0,
+  "payment_method": "MasterCard ****9902",
+  "items": [
+    {
+      "description": "Full HD 27-inch Monitor",
+      "quantity": 3,
+      "price": 18500,
+      "amount": 55500
+    },
+    {
+      "description": "Wireless Mechanical Keyboard",
+      "quantity": 2,
+      "price": 4500,
+      "amount": 9000
+    },
+    {
+      "description": "Laptop Stand Ergonomic",
+      "quantity": 1,
+      "price": 2500,
+      "amount": 2500
+    },
+    {
+      "description": "Noise Cancelling Headphones",
+      "quantity": 1,
+      "price": 12000,
+      "amount": 12000
+    }
+  ]
+}
