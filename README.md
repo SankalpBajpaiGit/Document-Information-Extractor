@@ -4,18 +4,6 @@
 > **Project Type**: Deep Learning / Multimodal Document Understanding  
 > **Institution**: Manipal Institute of Technology  
 
----
-
-## 👥 Team Members
-
-| Team Member | Registration Number |
-| :--- | :--- |
-| **Kabir Sidana** | `220953162` |
-| **Sankalp Bajpai** | `230953524` |
-| **Prajot Shrivastava** | `230911184` |
-| **Qusai** | `230953480` |
-
----
 
 ## 🌟 Executive Summary
 
